@@ -1,0 +1,56 @@
+﻿
+Host Name:                 DESKTOP-MARG
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          ADMIN
+Registered Organization:   
+Product ID:                00331-10000-00001-AA106
+Original Install Date:     05/12/2024, 6:07:34 PM
+System Boot Time:          12/10/2026, 9:14:18 AM
+System Manufacturer:       Dell Inc.
+System Model:              Vostro 15-3568
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~2000 Mhz
+BIOS Version:              Dell Inc. 3.3.0, 17/01/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume11
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     8,062 MB
+Available Physical Memory: 3,339 MB
+Virtual Memory: Max Size:  9,342 MB
+Virtual Memory: Available: 2,985 MB
+Virtual Memory: In Use:    6,357 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-MARG
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4515871
+                           [02]: KB4513661
+                           [03]: KB4516115
+                           [04]: KB4517245
+                           [05]: KB4521863
+                           [06]: KB4517389
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [02]: Qualcomm QCA9377 802.11ac Wireless Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.1.240
+                                 [02]: fe80::f128:72f5:afe7:60c4
+                           [03]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
