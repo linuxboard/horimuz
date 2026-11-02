@@ -1,0 +1,48 @@
+﻿
+Host Name:                 LAPTOP-YK54HCX4
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00331-20350-04713-AA955
+Original Install Date:     1/9/2025, 9:10:06 AM
+System Boot Time:          11/2/2026, 10:00:55 AM
+System Manufacturer:       Gigabyte Technology Co., Ltd.
+System Model:              B760M AORUS ELITE AX
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 63 Stepping 0 GenuineIntel ~2000 Mhz
+BIOS Version:              American Megatrends International, LLC. F10, 10/26/2026
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,093 MB
+Available Physical Memory: 2,877 MB
+Virtual Memory: Max Size:  4,093 MB
+Virtual Memory: Available: 2,993 MB
+Virtual Memory: In Use:    1,100 MB
+Page File Location(s):     N/A
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-YK54HCX4
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB5028853
+                           [02]: KB5015684
+                           [03]: KB5020683
+                           [04]: KB5029244
+                           [05]: KB5014032
+                           [06]: KB5028318
+                           [07]: KB5028380
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Red Hat VirtIO Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.0.2.15
+                                 [02]: fe80::ef3c:125e:2362:336
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
