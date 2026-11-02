@@ -1,0 +1,72 @@
+﻿
+ホスト名:                   ZEONG
+OS 名:                      Microsoft Windows 11 Home
+OS バージョン:              10.0.26300 N/A ビルド 26300
+OS 製造元:                  Microsoft Corporation
+OS 構成:                    スタンドアロン ワークステーション
+OS ビルドの種類:            Multiprocessor Free
+登録されている所有者:       joonil@outlook.jp
+登録されている組織:         HP
+プロダクト ID:              00342-21981-81280-AAOEM
+最初のインストール日付:     2024/10/02, 13:20:11
+システム起動時間:           2026/10/29, 15:40:57
+システム製造元:             HP
+システム モデル:            HP ENVY x360 Convertible 13-ay1xxx
+システムの種類:             x64-based PC
+プロセッサ:                 1 プロセッサインストール済みです。
+                            [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~1901 Mhz
+BIOS バージョン:            Insyde F.07, 2023/03/08
+Windows ディレクトリ:       C:\WINDOWS
+システム ディレクトリ:      C:\WINDOWS\system32
+ブート デバイス:            \Device\HarddiskVolume1
+システム ロケール:          ja;日本語
+入力ロケール:               ja;日本語
+タイム ゾーン:              (UTC+09:00) 大阪、札幌、東京
+物理メモリの合計:           15,680 MB
+利用できる物理メモリ:       5,393 MB
+仮想メモリ: 最大サイズ:     16,704 MB
+仮想メモリ: 利用可能:       4,227 MB
+仮想メモリ: 使用中:         12,477 MB
+ページ ファイルの場所:      C:\pagefile.sys
+ドメイン:                   WORKGROUP
+ログオン サーバー:          \\ZEONG
+ホットフィックス:           5 ホットフィックスがインストールされています。
+                            [01]: KB5127694
+                            [02]: KB5054156
+                            [03]: KB5121794
+                            [04]: KB5127936
+                            [05]: KB5132402
+ネットワーク カード:        4 NIC(s) インストール済みです。
+                            [01]: ExpressVPN TAP Adapter
+                                  接続名:		イーサネット 2
+                                  状態:          メディアは接続されていません
+                            [02]: ExpressVPN Wintun Driver
+                                  接続名:		ローカル エリア接続
+                                  状態:          メディアは接続されていません
+                            [03]: Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+                                  接続名:		Wi-Fi
+                                  DHCP が有効:	はい
+                                  DHCP サーバー:	192.168.50.1
+                                  IP アドレス
+                                  [01]: 192.168.50.5
+                                  [02]: fe80::f807:2aff:dffe:c431
+                            [04]: Bluetooth Device (Personal Area Network)
+                                  接続名:		Bluetooth ネットワーク接続
+                                  状態:          メディアは接続されていません
+仮想化ベースのセキュリティ: 状態: 実行中\
+                            必要なセキュリティ プロパティ:
+                            使用可能なセキュリティのプロパティ:
+                                  仮想化の基本サポート
+                                  セキュア ブート
+                                  DMA 保護
+                                  UEFI コード読み取り専用
+                                  SMM Security Mitigations 1.0
+                                  モード ベース実行制御
+                            Services Configured:
+                                  ハイパーバイザーによるコードの整合性の強制
+                            Services Running:
+                                  ハイパーバイザーによるコードの整合性の強制
+                            App Control for Business policy: 強制
+                            App Control for Business user mode policy: オフ
+                            有効なセキュリティ機能:
+Hyper-V の要件:             ハイパーバイザーが検出されました。Hyper-V に必要な機能は表示されません。
