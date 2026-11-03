@@ -1,0 +1,271 @@
+﻿
+이미지 이름                    PID 세션 이름              세션#  메모리 사용
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0         72 K
+Registry                       128 Services                   0     81,168 K
+smss.exe                       368 Services                   0        664 K
+csrss.exe                      516 Services                   0      4,408 K
+wininit.exe                    600 Services                   0      2,840 K
+services.exe                   672 Services                   0     10,380 K
+lsass.exe                      688 Services                   0     28,044 K
+svchost.exe                    884 Services                   0     43,328 K
+fontdrvhost.exe                920 Services                   0      1,948 K
+svchost.exe                   1000 Services                   0     90,044 K
+svchost.exe                    432 Services                   0     27,208 K
+svchost.exe                    668 Services                   0    130,500 K
+svchost.exe                   1136 Services                   0      7,600 K
+svchost.exe                   1144 Services                   0     21,840 K
+svchost.exe                   1152 Services                   0      6,660 K
+svchost.exe                   1296 Services                   0      6,012 K
+svchost.exe                   1380 Services                   0      5,532 K
+svchost.exe                   1416 Services                   0      8,556 K
+svchost.exe                   1428 Services                   0      5,772 K
+svchost.exe                   1464 Services                   0      9,660 K
+svchost.exe                   1608 Services                   0     12,784 K
+WUDFHost.exe                  1624 Services                   0      4,144 K
+NVDisplay.Container.exe       1672 Services                   0     12,344 K
+svchost.exe                   1680 Services                   0      9,720 K
+svchost.exe                   1724 Services                   0     12,808 K
+svchost.exe                   1796 Services                   0      4,996 K
+svchost.exe                   1852 Services                   0      5,780 K
+svchost.exe                   1888 Services                   0     17,088 K
+svchost.exe                   1904 Services                   0      6,612 K
+svchost.exe                   1944 Services                   0      3,684 K
+svchost.exe                   1984 Services                   0      9,644 K
+svchost.exe                   1504 Services                   0      6,164 K
+svchost.exe                   2060 Services                   0      8,088 K
+svchost.exe                   2108 Services                   0      9,496 K
+svchost.exe                   2116 Services                   0      9,756 K
+svchost.exe                   2152 Services                   0      5,860 K
+svchost.exe                   2220 Services                   0     15,640 K
+svchost.exe                   2348 Services                   0     18,188 K
+svchost.exe                   2396 Services                   0      6,152 K
+svchost.exe                   2504 Services                   0      9,324 K
+svchost.exe                   2536 Services                   0     26,132 K
+spoolsv.exe                   2792 Services                   0     24,152 K
+svchost.exe                   2848 Services                   0      9,052 K
+svchost.exe                   2856 Services                   0     42,456 K
+svchost.exe                   2864 Services                   0     17,528 K
+pg_ctl.exe                    2872 Services                   0      2,776 K
+svchost.exe                   2888 Services                   0      3,984 K
+svchost.exe                   2904 Services                   0      6,268 K
+svchost.exe                   2988 Services                   0     23,336 K
+StivDeviceService.exe         3020 Services                   0    368,944 K
+svchost.exe                   2100 Services                   0      4,664 K
+svchost.exe                   1688 Services                   0      4,332 K
+svchost.exe                   2488 Services                   0      3,252 K
+svchost.exe                   2740 Services                   0      9,020 K
+svchost.exe                   3080 Services                   0      7,128 K
+svchost.exe                   3424 Services                   0     12,396 K
+AggregatorHost.exe            3940 Services                   0      6,952 K
+postgres.exe                  3992 Services                   0      5,096 K
+conhost.exe                   4024 Services                   0      4,936 K
+svchost.exe                   3104 Services                   0      6,076 K
+postgres.exe                  4356 Services                   0      3,388 K
+postgres.exe                  4836 Services                   0     28,284 K
+postgres.exe                  4844 Services                   0      8,092 K
+postgres.exe                  4860 Services                   0      7,544 K
+postgres.exe                  4868 Services                   0      5,452 K
+postgres.exe                  4876 Services                   0      4,180 K
+postgres.exe                  4888 Services                   0      4,004 K
+StivRealtimeService.exe       4920 Services                   0    911,056 K
+svchost.exe                   4012 Services                   0     23,100 K
+svchost.exe                   4048 Services                   0      4,716 K
+svchost.exe                   5392 Services                   0     13,444 K
+svchost.exe                   6324 Services                   0      3,540 K
+svchost.exe                   5988 Services                   0      7,056 K
+svchost.exe                   7288 Services                   0      3,248 K
+svchost.exe                    932 Services                   0      9,560 K
+svchost.exe                   1476 Services                   0     31,976 K
+msdtc.exe                     8088 Services                   0      4,168 K
+svchost.exe                   5720 Services                   0     15,208 K
+svchost.exe                    536 Services                   0     21,552 K
+svchost.exe                   5928 Services                   0     13,160 K
+svchost.exe                      8 Services                   0     13,352 K
+svchost.exe                   7212 Services                   0      5,252 K
+SecurityHealthService.exe     5664 Services                   0      8,604 K
+svchost.exe                   5648 Services                   0      8,680 K
+svchost.exe                   7916 Services                   0      5,880 K
+svchost.exe                  10008 Services                   0      4,884 K
+svchost.exe                  10320 Services                   0      5,740 K
+WUDFHost.exe                 13420 Services                   0      3,104 K
+WUDFHost.exe                 14388 Services                   0      3,140 K
+WUDFHost.exe                  5808 Services                   0      3,104 K
+svchost.exe                   5520 Services                   0      8,032 K
+WUDFHost.exe                 12972 Services                   0      3,140 K
+csrss.exe                     8120 Services                   0      5,764 K
+powershell.exe                9752 Services                   0     64,816 K
+conhost.exe                  14384 Services                   0      4,228 K
+csrss.exe                    12904 Console                    7      2,716 K
+winlogon.exe                 14764 Console                    7      3,688 K
+fontdrvhost.exe              16348 Console                    7      2,132 K
+LogonUI.exe                   3664 Console                    7     50,992 K
+dwm.exe                      13696 Console                    7      9,592 K
+NVDisplay.Container.exe       2312 Console                    7    143,144 K
+csrss.exe                     7960 Services                   0      6,248 K
+smss.exe                      5080 Services                   0      9,732 K
+conhost.exe                  10884 Services                   0      5,640 K
+csrss.exe                    11088 Services                   0      6,228 K
+smss.exe                     13480 Services                   0      6,436 K
+conhost.exe                  11760 Services                   0      5,440 K
+smss.exe                      9272 Services                   0      4,616 K
+csrss.exe                     8996 RDP-Tcp#1                 11      6,612 K
+winlogon.exe                 13776 RDP-Tcp#1                 11      7,540 K
+fontdrvhost.exe              12280 RDP-Tcp#1                 11     20,132 K
+dwm.exe                       7040 RDP-Tcp#1                 11    118,444 K
+NVDisplay.Container.exe       2688 RDP-Tcp#1                 11    164,368 K
+rdpclip.exe                   5148 RDP-Tcp#1                 11     21,352 K
+sihost.exe                   15100 RDP-Tcp#1                 11     40,696 K
+svchost.exe                   5140 RDP-Tcp#1                 11     14,292 K
+svchost.exe                  12156 RDP-Tcp#1                 11     64,828 K
+taskhostw.exe                16412 RDP-Tcp#1                 11     13,412 K
+svchost.exe                   2028 Services                   0     15,316 K
+explorer.exe                 17380 RDP-Tcp#1                 11    819,068 K
+taskhostw.exe                10928 RDP-Tcp#1                 11     19,344 K
+StartMenuExperienceHost.e     3384 RDP-Tcp#1                 11     43,812 K
+RuntimeBroker.exe            14640 RDP-Tcp#1                 11     17,212 K
+SearchApp.exe                12072 RDP-Tcp#1                 11    158,748 K
+RuntimeBroker.exe             1312 RDP-Tcp#1                 11     39,612 K
+ctfmon.exe                    7584 RDP-Tcp#1                 11     16,828 K
+TabTip.exe                   17156 RDP-Tcp#1                 11     16,532 K
+TabTip32.exe                  7752 RDP-Tcp#1                 11      3,292 K
+TextInputHost.exe             9968 RDP-Tcp#1                 11     25,144 K
+svchost.exe                   7316 RDP-Tcp#1                 11     22,420 K
+dllhost.exe                   7496 RDP-Tcp#1                 11     13,640 K
+RuntimeBroker.exe             6076 RDP-Tcp#1                 11     26,352 K
+ApplicationFrameHost.exe      7372 RDP-Tcp#1                 11     24,740 K
+svchost.exe                   3136 RDP-Tcp#1                 11      9,876 K
+ShellExperienceHost.exe       6016 RDP-Tcp#1                 11     80,692 K
+svchost.exe                  12092 Services                   0      4,540 K
+RuntimeBroker.exe             2204 RDP-Tcp#1                 11     26,316 K
+svchost.exe                   9496 RDP-Tcp#1                 11     15,792 K
+svchost.exe                     76 Services                   0      4,316 K
+svchost.exe                   3512 RDP-Tcp#1                 11      4,432 K
+SystemSettingsBroker.exe     15224 RDP-Tcp#1                 11      7,264 K
+csrss.exe                    13780                            8      3,768 K
+winlogon.exe                  5048                            8      6,724 K
+fontdrvhost.exe               2620                            8     14,784 K
+dwm.exe                      11984                            8     22,512 K
+rdpclip.exe                   8388                            8     10,508 K
+sihost.exe                   16948                            8     21,660 K
+svchost.exe                   7064                            8     11,812 K
+svchost.exe                  15024                            8     27,688 K
+explorer.exe                   608                            8    166,208 K
+taskhostw.exe                 9596                            8      7,536 K
+taskhostw.exe                 9884                            8      8,444 K
+StartMenuExperienceHost.e    11948                            8     31,440 K
+RuntimeBroker.exe             4644                            8     15,384 K
+SearchApp.exe                12460                            8     31,784 K
+RuntimeBroker.exe             5184                            8     16,016 K
+ctfmon.exe                   17276                            8      9,256 K
+TabTip.exe                    5332                            8      9,352 K
+TabTip32.exe                  7124                            8      1,992 K
+RuntimeBroker.exe             7976                            8     10,184 K
+TextInputHost.exe             1116                            8     16,680 K
+AzureArcSysTray.exe           6396                            8      5,708 K
+ShellExperienceHost.exe      16388                            8     25,092 K
+RuntimeBroker.exe             7312                            8     12,756 K
+svchost.exe                  17012                            8     12,376 K
+svchost.exe                   5516 RDP-Tcp#1                 11      5,496 K
+dllhost.exe                  11848 RDP-Tcp#1                 11     14,212 K
+svchost.exe                   8892 Services                   0      5,608 K
+dllhost.exe                  11896 RDP-Tcp#1                 11     15,044 K
+WUDFHost.exe                 18316 Services                   0      3,084 K
+dllhost.exe                  13304 RDP-Tcp#1                 11      7,932 K
+HelpPane.exe                  6684 RDP-Tcp#1                 11     14,952 K
+dllhost.exe                   6624 Services                   0     10,672 K
+MusNotifyIcon.exe             3972                            8      2,304 K
+MusNotifyIcon.exe            22504 RDP-Tcp#1                 11      6,224 K
+AnyDesk.exe                  24112 Services                   0     29,500 K
+default_an.exe               24404 RDP-Tcp#1                 11     31,560 K
+MsMpEng.exe                  21344 Services                   0    310,268 K
+MpDefenderCoreService.exe    23832 Services                   0     25,824 K
+NisSrv.exe                    2744 Services                   0     15,500 K
+DefenderSessionHelper.exe    11664 RDP-Tcp#1                 11      5,516 K
+DefenderSessionHelper.exe    21996                            8      5,276 K
+LogonUI.exe                  15440                            8     35,264 K
+chrome.exe                     760 RDP-Tcp#1                 11    653,492 K
+chrome.exe                   22832 RDP-Tcp#1                 11     11,568 K
+chrome.exe                   23276 RDP-Tcp#1                 11    387,136 K
+chrome.exe                   11772 RDP-Tcp#1                 11    115,348 K
+chrome.exe                   19032 RDP-Tcp#1                 11     31,912 K
+chrome.exe                   15180 RDP-Tcp#1                 11     66,444 K
+chrome.exe                   17776 RDP-Tcp#1                 11     68,416 K
+chrome.exe                   24160 RDP-Tcp#1                 11    115,108 K
+chrome.exe                   26472 RDP-Tcp#1                 11    116,508 K
+chrome.exe                   26572 RDP-Tcp#1                 11    288,736 K
+chrome.exe                   24684 RDP-Tcp#1                 11    123,648 K
+chrome.exe                   17768 RDP-Tcp#1                 11    279,032 K
+chrome.exe                    2000 RDP-Tcp#1                 11    298,800 K
+chrome.exe                   18956 RDP-Tcp#1                 11     66,744 K
+chrome.exe                   22128 RDP-Tcp#1                 11     20,792 K
+chrome.exe                    6296 RDP-Tcp#1                 11     37,348 K
+chrome.exe                   10736 RDP-Tcp#1                 11    450,344 K
+chrome.exe                    3536 RDP-Tcp#1                 11    534,524 K
+chrome.exe                   24292 RDP-Tcp#1                 11     59,592 K
+chrome.exe                   19836 RDP-Tcp#1                 11    178,696 K
+chrome.exe                   24276 RDP-Tcp#1                 11    439,312 K
+chrome.exe                    9352 RDP-Tcp#1                 11    128,784 K
+chrome.exe                   12772 RDP-Tcp#1                 11     75,868 K
+chrome.exe                   23300 RDP-Tcp#1                 11    308,084 K
+chrome.exe                   12532 RDP-Tcp#1                 11    213,636 K
+chrome.exe                   12656 RDP-Tcp#1                 11    145,324 K
+chrome.exe                   20716 RDP-Tcp#1                 11    307,528 K
+chrome.exe                   20968 RDP-Tcp#1                 11    158,176 K
+chrome.exe                   20840 RDP-Tcp#1                 11     78,760 K
+chrome.exe                   26448 RDP-Tcp#1                 11     61,256 K
+chrome.exe                   20136 RDP-Tcp#1                 11    529,596 K
+chrome.exe                   25148 RDP-Tcp#1                 11    182,168 K
+chrome.exe                   21836 RDP-Tcp#1                 11    118,028 K
+chrome.exe                   14532 RDP-Tcp#1                 11    139,200 K
+chrome.exe                    6768 RDP-Tcp#1                 11    243,864 K
+chrome.exe                   20640 RDP-Tcp#1                 11     79,680 K
+chrome.exe                   16400 RDP-Tcp#1                 11     63,684 K
+chrome.exe                   25940 RDP-Tcp#1                 11    294,340 K
+chrome.exe                   21696 RDP-Tcp#1                 11    155,956 K
+chrome.exe                    1092 RDP-Tcp#1                 11     64,484 K
+chrome.exe                   24328 RDP-Tcp#1                 11    155,044 K
+chrome.exe                   22544 RDP-Tcp#1                 11     75,508 K
+chrome.exe                   21500 RDP-Tcp#1                 11     99,168 K
+chrome.exe                   12224 RDP-Tcp#1                 11     83,268 K
+chrome.exe                   26336 RDP-Tcp#1                 11    106,324 K
+chrome.exe                   15632 RDP-Tcp#1                 11    301,596 K
+chrome.exe                   17444 RDP-Tcp#1                 11     52,552 K
+chrome.exe                   24928 RDP-Tcp#1                 11     55,516 K
+chrome.exe                   23412 RDP-Tcp#1                 11     53,032 K
+chrome.exe                   23516 RDP-Tcp#1                 11     63,136 K
+chrome.exe                   25024 RDP-Tcp#1                 11     58,556 K
+chrome.exe                   17560 RDP-Tcp#1                 11     54,624 K
+chrome.exe                   25764 RDP-Tcp#1                 11     88,244 K
+chrome.exe                   16684 RDP-Tcp#1                 11     57,208 K
+chrome.exe                    8932 RDP-Tcp#1                 11     50,320 K
+chrome.exe                   14096 RDP-Tcp#1                 11     55,664 K
+chrome.exe                   23272 RDP-Tcp#1                 11     53,124 K
+chrome.exe                   20736 RDP-Tcp#1                 11     53,148 K
+chrome.exe                   23432 RDP-Tcp#1                 11     51,132 K
+chrome.exe                   10184 RDP-Tcp#1                 11     53,160 K
+chrome.exe                   23716 RDP-Tcp#1                 11     49,412 K
+chrome.exe                   17432 RDP-Tcp#1                 11     52,132 K
+chrome.exe                     768 RDP-Tcp#1                 11     88,780 K
+chrome.exe                   18340 RDP-Tcp#1                 11    121,044 K
+chrome.exe                    4220 RDP-Tcp#1                 11     54,516 K
+cmd.exe                      21548 RDP-Tcp#1                 11      5,532 K
+conhost.exe                   2656 RDP-Tcp#1                 11     30,400 K
+chrome.exe                    6564 RDP-Tcp#1                 11     48,692 K
+chrome.exe                    5428 RDP-Tcp#1                 11    366,048 K
+chrome.exe                   24988 RDP-Tcp#1                 11    382,700 K
+svchost.exe                  12960 Services                   0     18,264 K
+postgres.exe                  4276 Services                   0     15,572 K
+WUDFHost.exe                 22352 Services                   0     30,444 K
+svchost.exe                  14876 Services                   0      8,400 K
+smartscreen.exe               6412 RDP-Tcp#1                 11     24,588 K
+postgres.exe                 19784 Services                   0    103,708 K
+postgres.exe                 25856 Services                   0    103,100 K
+WmiPrvSE.exe                  8776 Services                   0     12,996 K
+chrome.exe                   22560 RDP-Tcp#1                 11     29,900 K
+ffmpeg.exe                   10364 Services                   0     14,948 K
+conhost.exe                  11136 Services                   0     11,700 K
+powershell.exe               24248 RDP-Tcp#1                 11     74,016 K
+conhost.exe                  11708 RDP-Tcp#1                 11     28,492 K
+tasklist.exe                 23512 RDP-Tcp#1                 11      9,860 K
