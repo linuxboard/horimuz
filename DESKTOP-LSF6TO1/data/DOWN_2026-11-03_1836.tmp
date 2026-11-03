@@ -1,0 +1,96 @@
+﻿
+
+    Directory: C:\Users\admin\Downloads
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        14-04-2026     13:43                LIB_BOOST (3)                                                        
+-a----        21-07-2026     11:39        8343992 AnyDesk.exe                                                          
+-a----        14-04-2026     12:23       11487160 ChromeSetup.exe                                                      
+-a----        14-04-2026     13:54       62500457 Client.zip                                                           
+-a----        10-08-2026     10:23      336840376 ibgateway-latest-standalone-windows-x64.exe                          
+-a----        04-11-2026     10:42           1178 PDF_Fast_Command.lnk                                                 
+-a----        14-04-2026     12:24        3831808 putty-64bit-0.83-installer.msi                                       
+-a----        10-08-2026     18:48       41912320 Trading Terminal_1.0.0_x64-setup (1).exe                             
+-a----        10-08-2026     10:21       41572722 Trading Terminal_1.0.0_x64-setup.exe                                 
+-a----        14-04-2026     12:26        3648408 UltraViewer_setup_6.6.124_en.exe                                     
+-a----        14-04-2026     12:24       12317368 WinSCP-6.5.6-Setup.exe                                               
+
+
+    Directory: C:\Users\admin\Downloads\LIB_BOOST (3)
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        14-04-2026     13:43                LIB_BOOST                                                            
+
+
+    Directory: C:\Users\admin\Downloads\LIB_BOOST (3)\LIB_BOOST
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        28-09-2018     12:56           8368 libboost_atomic.so.1.67.0                                            
+-a----        28-09-2018     12:56          36504 libboost_chrono.so.1.67.0                                            
+-a----        28-09-2018     12:56         118304 libboost_container.so.1.67.0                                         
+-a----        28-09-2018     12:56          51368 libboost_context.so.1.67.0                                           
+-a----        28-09-2018     12:56         155672 libboost_contract.so.1.67.0                                          
+-a----        28-09-2018     12:56          62248 libboost_coroutine.so.1.67.0                                         
+-a----        28-09-2018     12:56          94496 libboost_date_time.so.1.67.0                                         
+-a----        28-09-2018     12:56         127184 libboost_filesystem.so.1.67.0                                        
+-a----        28-09-2018     12:56         450344 libboost_graph.so.1.67.0                                             
+-a----        28-09-2018     12:56          76344 libboost_iostreams.so.1.67.0                                         
+-a----        28-09-2018     12:56         884616 libboost_locale.so.1.67.0                                            
+-a----        28-09-2018     12:56        1177608 libboost_log.so.1.67.0                                               
+-a----        28-09-2018     12:56        1108856 libboost_log_setup.so.1.67.0                                         
+-a----        28-09-2018     12:56         103456 libboost_math_c99.so.1.67.0                                          
+-a----        28-09-2018     12:56          83456 libboost_math_c99f.so.1.67.0                                         
+-a----        28-09-2018     12:56          83904 libboost_math_c99l.so.1.67.0                                         
+-a----        28-09-2018     12:56         428952 libboost_math_tr1.so.1.67.0                                          
+-a----        28-09-2018     12:56         456416 libboost_math_tr1f.so.1.67.0                                         
+-a----        28-09-2018     12:56         414752 libboost_math_tr1l.so.1.67.0                                         
+-a----        28-09-2018     12:56          94504 libboost_prg_exec_monitor.so.1.67.0                                  
+-a----        28-09-2018     12:56         590872 libboost_program_options.so.1.67.0                                   
+-a----        28-09-2018     12:56          31576 libboost_random.so.1.67.0                                            
+-a----        28-09-2018     12:56        1231352 libboost_regex.so.1.67.0                                             
+-a----        28-09-2018     12:56         430312 libboost_serialization.so.1.67.0                                     
+-a----        28-09-2018     12:56         119416 libboost_signals.so.1.67.0                                           
+-a----        28-09-2018     12:56          49296 libboost_stacktrace_addr2line.so.1.67.0                              
+-a----        28-09-2018     12:56          35896 libboost_stacktrace_basic.so.1.67.0                                  
+-a----        28-09-2018     12:56           8472 libboost_stacktrace_noop.so.1.67.0                                   
+-a----        28-09-2018     12:56          24720 libboost_system.so.1.67.0                                            
+-a----        28-09-2018     12:56         187496 libboost_thread.so.1.67.0                                            
+-a----        28-09-2018     12:56          25032 libboost_timer.so.1.67.0                                             
+-a----        28-09-2018     12:56          78128 libboost_type_erasure.so.1.67.0                                      
+-a----        28-09-2018     12:56        1066880 libboost_unit_test_framework.so.1.67.0                               
+-a----        28-09-2018     12:56        2230328 libboost_wave.so.1.67.0                                              
+-a----        28-09-2018     12:56         310904 libboost_wserialization.so.1.67.0                                    
+-a----        28-09-2018     12:56        1846144 libcrypto.so.0.9.8                                                   
+-a----        19-09-2019     18:09        4502384 libcryptopp.so.5.6.5                                                 
+-a----        11-08-2021     15:10             19 libPocoCrypto.so                                                     
+-a----        29-07-2021     14:11         139536 libPocoCrypto.so.48                                                  
+-a----        11-08-2021     15:10             17 libPocoData.so                                                       
+-a----        29-07-2021     14:14        2220808 libPocoData.so.48                                                    
+-a----        11-08-2021     15:10             23 libPocoDataSQLite.so                                                 
+-a----        29-07-2021     14:15        1089216 libPocoDataSQLite.so.48                                              
+-a----        11-08-2021     15:10             23 libPocoFoundation.so                                                 
+-a----        29-07-2021     14:07        2023080 libPocoFoundation.so.48                                              
+-a----        11-08-2021     15:10             17 libPocoJSON.so                                                       
+-a----        29-07-2021     14:08         315776 libPocoJSON.so.48                                                    
+-a----        11-08-2021     15:10             16 libPocoNet.so                                                        
+-a----        29-07-2021     14:11        1205480 libPocoNet.so.48                                                     
+-a----        11-08-2021     15:10             19 libPocoNetSSL.so                                                     
+-a----        29-07-2021     14:11         300864 libPocoNetSSL.so.48                                                  
+-a----        11-08-2021     15:10             17 libPocoUtil.so                                                       
+-a----        29-07-2021     14:09         469672 libPocoUtil.so.48                                                    
+-a----        11-08-2021     15:10             16 libPocoXML.so                                                        
+-a----        29-07-2021     14:07         612928 libPocoXML.so.48                                                     
+-a----        11-08-2021     15:10             16 libPocoZip.so                                                        
+-a----        29-07-2021     14:15         287304 libPocoZip.so.48                                                     
+-a----        27-02-2020     03:55        4575904 libsolclient.so                                                      
+-a----        27-02-2020     03:55        4575904 libsolclient.so.1                                                    
+-a----        28-09-2018     12:56         394832 libssl.so.0.9.8                                                      
+-a----        17-01-2025     20:35         615680 libssl.so.1.1                                                        
+
+
