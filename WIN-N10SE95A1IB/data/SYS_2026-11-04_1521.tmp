@@ -1,0 +1,54 @@
+﻿
+호스트 이름:             WIN-N10SE95A1IB
+OS 이름:                 Microsoft Windows Server 2022 Standard
+OS 버전:                 10.0.20348 N/A 빌드 20348
+OS 제조업체:             Microsoft Corporation
+OS 구성:                 독립 실행형 서버
+OS 빌드 종류:            Multiprocessor Free
+등록된 소유자:           Windows 사용자
+등록된 조직:             
+제품 ID:                 00453-70000-75721-AAOEM
+원래 설치 날짜:          2024-02-26, 오후 3:24:31
+시스템 부트 시간:        2024-12-17, 오전 11:00:31
+시스템 제조업체:         Supermicro
+시스템 모델:             Super Server
+시스템 종류:             x64-based PC
+프로세서:                프로세서 1개 설치됨
+                         [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~3301Mhz
+BIOS 버전:               American Megatrends Inc. 2.2, 2023-10-27
+Windows 디렉터리:        C:\Windows
+시스템 디렉터리:         C:\Windows\system32
+부팅 장치:               \Device\HarddiskVolume5
+시스템 로캘:             ko;한국어
+입력 로캘:               ko;한국어
+표준 시간대:             (UTC+09:00) 서울
+총 실제 메모리:          16,287MB
+사용 가능한 실제 메모리: 1,252MB
+가상 메모리: 최대 크기:  36,512MB
+가상 메모리: 사용 가능:  7,923MB
+가상 메모리: 사용 중:    28,589MB
+페이지 파일 위치:        C:\pagefile.sys
+도메인:                  WORKGROUP
+로그온 서버:             \\WIN-N10SE95A1IB
+핫픽스:                  핫픽스 3개 설치됨
+                         [01]: KB5034613
+                         [02]: KB5034770
+                         [03]: KB5034869
+네트워크 카드:           NIC 2개 설치됨
+                         [01]: Intel(R) I210 Gigabit Network Connection
+                               연결 이름: Intel Ethernet I210 #2
+                               DHCP 사용: 아니요
+                               IP 주소
+                               [01]: 192.168.0.100
+                               [02]: fe80::648f:9e98:62ee:b4d4
+                         [02]: Intel(R) I210 Gigabit Network Connection
+                               연결 이름: 이더넷
+                               DHCP 사용: 예
+                               DHCP 서버: 10.31.23.1
+                               IP 주소
+                               [01]: 10.31.23.100
+                               [02]: fe80::d78f:6578:b9da:22c1
+Hyper-V 요구 사항:       VM 모니터 모드 확장: 예
+                         펌웨어에 가상화 사용: 예
+                         두 번째 수준 주소 변환: 예
+                         데이터 실행 방지 사용 가능: 예
