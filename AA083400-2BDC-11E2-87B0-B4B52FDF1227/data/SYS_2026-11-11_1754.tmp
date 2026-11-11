@@ -1,0 +1,55 @@
+﻿
+Host Name:                 DESKTOP-LSF6TO1
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          admin
+Registered Organization:   
+Product ID:                00331-10000-00001-AA766
+Original Install Date:     11-03-2026, 16:04:38
+System Boot Time:          15-10-2026, 16:12:52
+System Manufacturer:       Hewlett-Packard
+System Model:              HP Compaq Elite 8300 SFF
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2501 Mhz
+BIOS Version:              Hewlett-Packard K01 v02.51, 15-06-2012
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume3
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     12,161 MB
+Available Physical Memory: 5,983 MB
+Virtual Memory: Max Size:  14,017 MB
+Virtual Memory: Available: 6,891 MB
+Virtual Memory: In Use:    7,126 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-LSF6TO1
+Hotfix(s):                 11 Hotfix(s) Installed.
+                           [01]: KB5066130
+                           [02]: KB5066135
+                           [03]: KB5011048
+                           [04]: KB5015684
+                           [05]: KB5072653
+                           [06]: KB5126256
+                           [07]: KB5071959
+                           [08]: KB5014032
+                           [09]: KB5032907
+                           [10]: KB5066790
+                           [11]: KB5071982
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82579LM Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.27.55
+                                 [02]: fe80::65bd:eab9:114e:fa6f
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
