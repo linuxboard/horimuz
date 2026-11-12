@@ -1,0 +1,49 @@
+﻿
+Host Name:                 test42
+OS Name:                   Microsoft Windows 11 Enterprise
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          john
+Registered Organization:   N/A
+Product ID:                00329-00000-00003-AA689
+Original Install Date:     11/6/2025, 4:32:02 PM
+System Boot Time:          11/12/2026, 9:04:44 AM
+System Manufacturer:       Microsoft Corporation
+System Model:              Virtual Machine
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 106 Stepping 6 GenuineIntel ~2793 Mhz
+BIOS Version:              American Megatrends Inc. msso_oP, 
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+08:00) Taipei
+Total Physical Memory:     4,096 MB
+Available Physical Memory: 2,285 MB
+Virtual Memory: Max Size:  4,800 MB
+Virtual Memory: Available: 3,139 MB
+Virtual Memory: In Use:    1,661 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\test42
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5066133
+                           [02]: KB5027397
+                           [03]: KB5066793
+                           [04]: KB5066792
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Microsoft Hyper-V Network Adapter
+                                 Connection Name: Ethernet 13
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     168.63.129.16
+                                 IP address(es)
+                                 [01]: 172.28.1.6
+                           [02]: Mellanox ConnectX-5 Virtual Adapter
+                                 Connection Name: Ethernet 14
+                                 DHCP Enabled:    No
+                                 IP address(es)
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
