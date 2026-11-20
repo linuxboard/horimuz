@@ -1,0 +1,75 @@
+﻿
+ホスト名:                   H24025
+OS 名:                      Microsoft Windows 11 Home
+OS バージョン:              10.0.26300 N/A ビルド 26300
+OS 製造元:                  Microsoft Corporation
+OS 構成:                    スタンドアロン ワークステーション
+OS ビルドの種類:            Multiprocessor Free
+登録されている所有者:       Kobe-Cufs
+登録されている組織:         N/A
+プロダクト ID:              00342-22292-56354-AAOEM
+最初のインストール日付:     2024/12/24, 8:17:15
+システム起動時間:           2026/11/20, 5:04:55
+システム製造元:             FUJITSU CLIENT COMPUTING LIMITED
+システム モデル:            FMVU8H3WD1
+システムの種類:             x64-based PC
+プロセッサ:                 1 プロセッサインストール済みです。
+                            [01]: Intel64 Family 6 Model 186 Stepping 2 GenuineIntel ~2200 Mhz
+BIOS バージョン:            FUJITSU CLIENT COMPUTING LIMITED Version 1.19, 2025/05/09
+Windows ディレクトリ:       C:\WINDOWS
+システム ディレクトリ:      C:\WINDOWS\system32
+ブート デバイス:            \Device\HarddiskVolume1
+システム ロケール:          ja;日本語
+入力ロケール:               ja;日本語
+タイム ゾーン:              (UTC+09:00) 大阪、札幌、東京
+物理メモリの合計:           16,025 MB
+利用できる物理メモリ:       633 MB
+仮想メモリ: 最大サイズ:     23,961 MB
+仮想メモリ: 利用可能:       3,424 MB
+仮想メモリ: 使用中:         20,537 MB
+ページ ファイルの場所:      C:\pagefile.sys
+ドメイン:                   WORKGROUP
+ログオン サーバー:          \\H24025
+ホットフィックス:           6 ホットフィックスがインストールされています。
+                            [01]: KB5137006
+                            [02]: KB5054156
+                            [03]: KB5121794
+                            [04]: KB5132057
+                            [05]: KB5132056
+                            [06]: KB5132688
+ネットワーク カード:        4 NIC(s) インストール済みです。
+                            [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                  接続名:		Wi-Fi
+                                  DHCP が有効:	はい
+                                  DHCP サーバー:	192.168.50.125
+                                  IP アドレス
+                                  [01]: 192.168.86.75
+                                  [02]: fe80::ceca:78c4:811e:18d6
+                            [02]: Intel(R) Ethernet Connection (23) I219-V
+                                  接続名:		イーサネット
+                                  状態:          メディアは接続されていません
+                            [03]: Bluetooth Device (Personal Area Network)
+                                  接続名:		Bluetooth ネットワーク接続
+                                  状態:          メディアは接続されていません
+                            [04]: Realtek USB GbE Family Controller
+                                  接続名:		イーサネット 2
+                                  状態:          メディアは接続されていません
+仮想化ベースのセキュリティ: 状態: 実行中\
+                            必要なセキュリティ プロパティ:
+                                  仮想化の基本サポート
+                            使用可能なセキュリティのプロパティ:
+                                  仮想化の基本サポート
+                                  セキュア ブート
+                                  DMA 保護
+                                  UEFI コード読み取り専用
+                                  SMM Security Mitigations 1.0
+                                  モード ベース実行制御
+                                  APIC の仮想化
+                            Services Configured:
+                                  ハイパーバイザーによるコードの整合性の強制
+                            Services Running:
+                                  ハイパーバイザーによるコードの整合性の強制
+                            App Control for Business policy: 強制
+                            App Control for Business user mode policy: オフ
+                            有効なセキュリティ機能:
+Hyper-V の要件:             ハイパーバイザーが検出されました。Hyper-V に必要な機能は表示されません。
